@@ -1,5 +1,8 @@
 # Data Analyst
 
+### Projects
+
+
 ### Education & Training
 
 | Institution | Credential | Dates | Key Coursework / Achievements |
@@ -39,4 +42,4 @@
 - Delivered actionable proposals by analyzing user behavior and tracking KPIs with Google Analytics and BigQuery, increasing landing page conversion rates up to 30%.
 - Engineered over 15 interactive dashboards for 5 major clients, leveraging Tableau, Power BI, and Looker Studio to deliver real-time, actionable insights.
 
-### Projects
+
