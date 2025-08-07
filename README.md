@@ -14,9 +14,9 @@ Designed and implemented a comprehensive relational database for a Gym Managemen
 
 | Institution | Credential | Dates | Key Coursework / Achievements |
 | :--- | :--- | :--- | :--- |
-| **University of Niagara Falls** | Master in Data Analytics (In Progress) | Jan2025 – Oct2026 | **GPA: 4.15**; SQL, Predictive Analytics, Data Warehousing |
+| **University of Niagara Falls** | Master in Data Analytics (In Progress) | Jan2025 – Oct2026 | **GPA: 4.15**; SQL, Predictive Analytics, Data Warehousing. **Awarded recognition on the President’s Academic Distinction List** |
 | **National University of Engineering** | Diploma in Data Science | Sep2022 – Dec2023 | MLOps, Machine Learning, Big Data Cloud |
-| **University of Western Ontario** | Basel Credit Risk Training | Feb2021 – Dec2021 | Company-sponsored program on Basel accords and credit risk modeling.; **Awarded distinction for top performance** |
+| **University of Western Ontario** | Basel Credit Risk Training | Feb2021 – Dec2021 | Company-sponsored program on Basel accords and credit risk modeling. **Awarded distinction for top performance** |
            
 ### Work Experience
 ### COF CONSULTING Software Development
