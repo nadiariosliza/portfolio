@@ -1,4 +1,7 @@
 # Data Analyst
+I am a data-driven Statistical Engineer with 8 years of experience translating complex data into actionable insights. My background is in building and implementing impactful machine learning models (like Logistic Regression and XGBoost) to mitigate risk and drive growth for the consulting, banking, and e-commerce sectors.
+
+Currently, I am deepening my expertise by pursuing a Master of Data Analytics at the University of Niagara Falls (GPA: 4.15), where I have been repeatedly recognized on the President’s Academic Distinction List. My technical toolkit includes Python, R, SQL, and a full suite of business intelligence tools like Tableau, Power BI, and Looker Studio.
 
 ### Portfolio Projects
 
