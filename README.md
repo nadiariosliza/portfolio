@@ -1,15 +1,21 @@
 # Data Analyst
 
-### Projects
+### Portfolio Projects
 
+#### SQL Gym Management System: A Data Analytics Project
+Designed and implemented a comprehensive relational database for a Gym Management System using advanced SQL. This project showcases skills in database design, data integrity, and business intelligence analysis, with future plans to integrate BI dashboards and a machine learning model for customer churn prediction.
+
+**Technologies Used:** SQL (DDL, DML, DQL), Database Design, Business Intelligence, Data Modeling.
+
+[View Project on GitHub &raquo;](https://github.com/nadiariosliza/GymManagementSystem)
 
 ### Education & Training
 
 | Institution | Credential | Dates | Key Coursework / Achievements |
 | :--- | :--- | :--- | :--- |
-| **University of Niagara Falls** | Master in Data Analytics (In Progress) | Jan 2025 – Oct 2026 | **GPA: 4.15**; SQL, Predictive Analytics, Data Warehousing |
-| **National University of Engineering** | Diploma in Data Science | Sep 2022 – Dec 2023 | **GPA: 3.67**; MLOps, Machine Learning, Big Data Cloud |
-| **University of Western Ontario** | Basel Credit Risk Training | Feb 2021 – Dec 2021 | Company-sponsored program on Basel accords and credit risk modeling.; **Awarded distinction for top performance** |
+| **University of Niagara Falls** | Master in Data Analytics (In Progress) | Jan2025 – Oct2026 | **GPA: 4.15**; SQL, Predictive Analytics, Data Warehousing |
+| **National University of Engineering** | Diploma in Data Science | Sep2022 – Dec2023 | MLOps, Machine Learning, Big Data Cloud |
+| **University of Western Ontario** | Basel Credit Risk Training | Feb2021 – Dec2021 | Company-sponsored program on Basel accords and credit risk modeling.; **Awarded distinction for top performance** |
            
 ### Work Experience
 ### COF CONSULTING Software Development
