@@ -10,6 +10,13 @@ Designed and implemented a comprehensive relational database for a Gym Managemen
 
 [View Project on GitHub &raquo;](https://github.com/nadiariosliza/GymManagementSystem)
 
+#### Sales Forecasting & Analysis in Power BI
+Developed a Power BI dashboard to analyze the Superstore dataset, focusing on sales performance, forecasting, and customer segmentation. This project showcases end-to-end business intelligence development, from data modeling (Snowflake Schema) and ETL in Power Query to advanced DAX calculations and time-series forecasting. Its key feature is an interactive "what-if" scenario planner that enables strategic sales goal setting.
+
+**Technologies Used:** Power BI, DAX, Power Query (M), Data Modeling, Time Series Forecasting.
+
+[View Project on GitHub &raquo;](https://github.com/nadiariosliza/Sales-Forecasting-Analysis-using-Power-BI)
+
 ### Education & Training
 
 | Institution | Credential | Dates | Key Coursework / Achievements |
