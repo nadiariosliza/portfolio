@@ -20,7 +20,7 @@ Developed a Power BI dashboard to analyze the Superstore dataset, focusing on sa
 #### Canadian Banks Stock Performance & Predictive Analysis
 Conducted an in-depth analysis of the Big Five Canadian banks' stock performance from 2000-2025, evaluating historical trends, volatility, and risk-adjusted returns. This project demonstrates a complete data analysis workflow, from data acquisition via the yfinance API to exploratory analysis and predictive modeling. The analysis culminates in the development of an optimized XGBoost model to forecast 30-day stock returns, providing a data-driven investment recommendation between the historically most stable and most volatile banks.  
 
-**Technologies Used:** Python, Pandas, Matplotlib, Seaborn, XGBoost, Scikit-learn, Time Series Analysis, yfinance API.
+**Technologies Used:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn), ML Grid optimization, XGBoost, Time Series Analysis, yfinance API.
 
 [View Project on GitHub &raquo;](https://github.com/nadiariosliza/Big5CanadianBanks)  
 
